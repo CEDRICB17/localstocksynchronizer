@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>localstocksynchronizer</name>
+    <displayName><![CDATA[Local Stock Synchronizer]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Maintain local stock synchronized between products of similar reference, EAN-13 or UPC code.]]></description>
+    <author><![CDATA[prestaalba]]></author>
+    <tab><![CDATA[others]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
